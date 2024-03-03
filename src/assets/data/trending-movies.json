@@ -1,0 +1,46 @@
+[{
+    "id":1,
+    "name":"Article 370",
+    "cover":"https://m.media-amazon.com/images/M/MV5BMGYzM2QxNWEtY2EwZC00OTE2LWExZDEtNjQ0NDAyMjYzNGJlXkEyXkFqcGdeQXVyMTY1MjAwNDU0._V1_FMjpg_UY720_.jpg",
+    "rating":7.5,
+    "reviews":[
+        
+    ]
+},
+{
+    "id":2,
+    "name":"Hanu Man",
+    "cover":"https://assets.gadgets360cdn.com/pricee/assets/product/202212/hanuman-movie-teja-sajja-captivates-with-his-innocence_b_2308221247_1669833505.jpg",
+    "rating":8.5,
+    "reviews":[
+
+    ]
+},
+{
+    "id":3,
+    "name":"TThe Vaccine War",
+    "cover":"https://static.tnn.in/thumb/msid-103606884,thumbsize-33882,width-1280,height-720,resizemode-75/103606884.jpg",
+    "rating":7.2,
+    "reviews":[
+
+    ]
+},
+{
+    "id":4,
+    "name":"Fighter",
+    "cover":"https://i.ytimg.com/vi/Vjsnd8BuyrY/maxresdefault.jpg",
+    "rating":7.4,
+    "reviews":[
+
+    ]
+},
+{
+    "id":5,
+    "name":"Mechanic",
+    "cover":"https://tse3.mm.bing.net/th?id=OIP.czUfcXyYKRHzEqvE1rDQ5AHaEo&pid=Api&P=0&h=180",
+    "rating":8.8,
+    "reviews":[
+
+    ]
+}
+]

@@ -1,0 +1,49 @@
+[{
+    "id":1,
+    "name":"Gandeevadhari Arjuna",
+    "cover":"https://www.filmibeat.com/fanimg/movie/21297/gandeevadhari-arjuna-photos-images-82226.jpg",
+    "rating":6.6,
+    "reviews":[
+        
+    ]
+},
+{
+    "id":2,
+    "name":"The Ghost",
+    "cover":"https://m.media-amazon.com/images/M/MV5BYWU3OGFkMWYtNTU4OC00NzQwLWE3MmMtMGQyOGZhODc0MDZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+    "rating":5.9,
+    "reviews":[
+
+    ]
+}
+,
+{
+    "id":3,
+    "name":"Indian Police Force",
+    "cover":"https://i.ytimg.com/vi/qC9ANoWQ6Ro/maxresdefault.jpg",
+    "rating":6.2,
+    "reviews":[
+
+    ]
+}
+,
+{
+    "id":4,
+    "name":"Chamak",
+    "cover":"https://tse1.explicit.bing.net/th?id=OIP.MbJTprO3JzY2zI6xmXIB9gHaEK&pid=Api&P=0&h=180",
+    "rating":9.3,
+    "reviews":[
+
+    ]
+}
+,
+{
+    "id":5,
+    "name":"Teri Baaton Mein Aisa Uljha Jiya",
+    "cover":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/teri-baaton-mein-aisa-uljha-jiya-et00383266-1705300344.jpg",
+    "rating":8.1,
+    "reviews":[
+
+    ]
+}
+]

@@ -1,0 +1,50 @@
+[{
+    "id":1,
+    "name":"Yatra 2",
+    "cover":"https://tse2.mm.bing.net/th?id=OIP.sLrn4U-xsfkAntqgTqs6swHaKk&pid=Api&P=0&h=180",
+    "rating":7.9,
+    "reviews":[
+        
+    ]
+},
+{
+    "id":2,
+    "name":"Argylle",
+    "cover":"https://m.media-amazon.com/images/M/MV5BZDM3YTg4MGUtZmUxNi00YmEyLTllNTctNjYyNjZlZGViNmFhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "rating":6.0,
+    "reviews":[
+
+    ]
+}
+,
+{
+    "id":3,
+    "name":"Poor Things",
+    "cover":"https://m.media-amazon.com/images/M/MV5BNGIyYWMzNjktNDE3MC00YWQyLWEyMmEtN2ZmNzZhZDk3NGJlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+    "rating":8.4,
+    "reviews":[
+
+    ]
+}
+,
+{
+    "id":4,
+    "name":"Oppenheimer",
+    "cover":"https://movies.universalpictures.com/media/03-opp-dm-mobile-banner-1080x745-pl-f01-062122-62defaa505f81-1.jpg",
+    "rating":8.4,
+    "reviews":[
+
+    ]
+}
+,
+{
+    "id":5,
+    "name":"Killers of the Flower Moon",
+    "cover":"https://tse1.mm.bing.net/th?id=OIP._doFFjBy3IIcaZWNVMsuDAHaLH&pid=Api&P=0&h=180",
+    "rating":7.7,
+    "reviews":[
+
+    ]
+}
+
+]
